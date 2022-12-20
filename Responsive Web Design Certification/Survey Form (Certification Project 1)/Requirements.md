@@ -5,9 +5,9 @@ User Stories:
 - [x]   You should have a form element with an id of survey-form
 - [x]   Inside the form element, you are required to enter your name in an input
  		field that has an id of name and a type of text
-- [ ]    Inside the form element, you are required to enter your email in an input field that has an id of email
-- [ ]     If you enter an email that is not formatted correctly, you will see an HTML5 validation error
-- [ ]    Inside the form, you can enter a number in an input field that has an id of number
+- [ ]   Inside the form element, you are required to enter your email in an input field that has an id of email
+- [ ]   If you enter an email that is not formatted correctly, you will see an HTML5 validation error
+- [ ]   Inside the form, you can enter a number in an input field that has an id of number
 - [ ] 	The number input should not accept non-numbers, either by preventing you
  		from typing them or by showing an HTML5 validation error (depending on your
  		browser).
@@ -25,8 +25,8 @@ User Stories:
  		two radio buttons that are grouped using the name attribute
 - [ ] 	Inside the form element, you can select several fields from a series of
  		checkboxes, each of which must have a value attribute
-- [ ]    Inside the form element, you are presented with a textarea for additional comments
-- [ ]    Inside the form element, you are presented with a button with id of submit to submit all the inputs
+- [ ]   Inside the form element, you are presented with a textarea for additional comments
+- [ ]   Inside the form element, you are presented with a button with id of submit to submit all the inputs
 
 Fulfill the user stories and pass all the tests below to complete this project.
 Give it your own personal style. Happy Coding!
