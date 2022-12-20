@@ -17,7 +17,7 @@ User Stories:
 - [x] 	For the name, email, and number input fields, you can see corresponding
  	 	label elements in the form, that describe the purpose of each field with
  	 	the following ids: id="name-label", id="email-label", and id="number-label"
-- [ ] 	For the name, email, and number input fields, you can see placeholder text
+- [x] 	For the name, email, and number input fields, you can see placeholder text
  		that gives a description or instructions for each field
 - [ ] 	Inside the form element, you should have a select dropdown element with an
  		id of dropdown and at least two options to choose from
