@@ -11,10 +11,10 @@ User Stories:
 - [x] 	The number input should not accept non-numbers, either by preventing you
  		from typing them or by showing an HTML5 validation error (depending on your
  		browser).
-- [ ] 	If you enter numbers outside the range of the number input, which are
+- [x] 	If you enter numbers outside the range of the number input, which are
  		defined by the min and max attributes, you will see an HTML5 validation
  		error
-- [ ] 	For the name, email, and number input fields, you can see corresponding
+- [x] 	For the name, email, and number input fields, you can see corresponding
  	 	label elements in the form, that describe the purpose of each field with
  	 	the following ids: id="name-label", id="email-label", and id="number-label"
 - [ ] 	For the name, email, and number input fields, you can see placeholder text
