@@ -6,17 +6,33 @@
 		<link rel="stylesheet" href="styles.css" />
 	</head>
 	<body>
-		<h1 id="title">Survey Form</h1>
-		<p id="description">Please fill out this survey with the required information</p>
-		<form id="survey-form">
+		<h1 id="title">Adoption Form</h1>
+		<p id="description">Please fill out this adoption form with the required information</p>
+		<form id="adoption-form">
+			<div>
 			<label id="name-label" for="name">Name<input id="name" type="text" required placeholder="Enter your name" /></label>
 			<label id="email-label" for="email">Email: <input id="email" type="email" required placeholder="Enter your email" /></label>
 			<label id="number-label" for="number">Age (optional): <input id="number" type="number" min="13" max="120" placeholder="Enter your age" /></label>
-			<label id="dropdown" for="options"> 
+			</div>
+			<div>
+			<label id="dropdown" for="options">Are you a cat person or a dog person?
 				<select id="options" name="options">
-					<options>
+					<option value="">(Select one)</option>
+					<option value="1">Cat person</option>
+					<option value="2">Dog person</option>
+					<option value="3">Other</option>
 				</select>
 			</label> 
+			</div>
+			<div>
+			<fieldset>
+				<label for="yes"><input id="yes" type="radio" name="responsability" />I will.</label>
+				<label for="no"><input id="no" type="radio" name="responsability" />I will not.</label>
+			</fieldset>
+			</div>
+			<label for="checkboxes">
+				<input id="checkboxes" type="checkbox" name="love" /> 
+			</label>
 		</form>
 	</body>
 </html>

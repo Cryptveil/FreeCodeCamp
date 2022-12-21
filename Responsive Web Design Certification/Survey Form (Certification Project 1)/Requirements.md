@@ -19,9 +19,9 @@ User Stories:
  	 	the following ids: id="name-label", id="email-label", and id="number-label"
 - [x] 	For the name, email, and number input fields, you can see placeholder text
  		that gives a description or instructions for each field
-- [ ] 	Inside the form element, you should have a select dropdown element with an
+- [x] 	Inside the form element, you should have a select dropdown element with an
  		id of dropdown and at least two options to choose from
-- [ ] 	Inside the form element, you can select an option from a group of at least
+- [x] 	Inside the form element, you can select an option from a group of at least
  		two radio buttons that are grouped using the name attribute
 - [ ] 	Inside the form element, you can select several fields from a series of
  		checkboxes, each of which must have a value attribute
