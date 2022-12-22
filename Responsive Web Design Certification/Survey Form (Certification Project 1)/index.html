@@ -9,35 +9,37 @@
 		<h1 id="title">Adoption Form</h1>
 		<p id="description">Please fill out this adoption form with the required information</p>
 		<form id="survey-form">
-			<div>
+			<fieldset>
 				<label id="name-label" for="name">Name<input id="name" type="text" required placeholder="Enter your name" /></label>
 				<label id="email-label" for="email">Email: <input id="email" type="email" required placeholder="Enter your email" /></label>
 				<label id="number-label" for="number">Age (optional): <input id="number" type="number" min="13" max="120" placeholder="Enter your age" /></label>
-			</div>
-			<div>
+			</fieldset>
+			<fieldset>
 				<label for="options">Are you a cat person or a dog person?
-					<select id="dropdown" name="options">
+					<select id="dropdown" name="options" class="inline">
 						<option value="">(Select one)</option>
 						<option value="1">Cat person</option>
 						<option value="2">Dog person</option>
 						<option value="3">Other</option>
 					</select>
 				</label> 
-			</div>
-			<div>
-				<fieldset>
-					<label name="responsability">Will you take good care of your future pet?</label>
-					<label for="yes"><input id="yes" type="radio" name="responsability" value="1" />I will.</label>
-					<label for="no"><input id="no" type="radio" name="responsability" value="0" />I will not.</label>
-				</fieldset>
-			</div>
+			</fieldset>
+			<fieldset>
+				<label name="responsability">Will you take good care of your future pet?</label>
+				<label for="yes"><input id="yes" type="radio" name="responsability" value="1" class="inline" />I will.</label>
+				<label for="no"><input id="no" type="radio" name="responsability" value="0" class="inline" />I will not.</label>
+			</fieldset>
+			<fieldset>
 			<label for="checkboxes"> Please check the boxes that most fit you
-				<input id="checkboxes" type="checkbox" name="love" value="0"/> I love animals
-				<input id="checkboxes" type="checkbox" name="time" value="1"/> I have enough time to take care of a pet
-				<input id="checkboxes" type="checkbox" name="home" value="2"/> My home is good for animals
+				<label><input id="checkboxes" type="checkbox" name="love" value="love" class="input-checkbox" /> I love animals</label>
+				<label><input id="checkboxes" type="checkbox" name="time" value="time" class="input-checkbox" /> I have enough time to take care of a pet</label>
+				<label><input id="checkboxes" type="checkbox" name="home" value="home" class="input-checkbox" /> My home is good for animals</label>
 			</label>
-			<label for="comments">
+			</fieldset>
+			<fieldset>
+			<label for="comments"> Anything you would like to tell us?
 				<textarea id="comments" name="comments" placeholder="Any aditional commentaries go here"></textarea>
+			</fieldset>
 			</label>
 			<input type="submit" value="Submit" id="submit">
 		</form>
