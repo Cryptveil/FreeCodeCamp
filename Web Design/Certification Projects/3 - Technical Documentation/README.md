@@ -14,11 +14,11 @@ User Stories:
   spaces should be replaced with underscores (e.g. The section that contains
   the header "JavaScript and Java" should have a corresponding
   id="JavaScript_and_Java")
-- [ ] The .main-section elements should contain at least ten p elements total
+- [x] The .main-section elements should contain at least ten p elements total
   (not each)
-- [ ] The .main-section elements should contain at least five code elements
+- [x] The .main-section elements should contain at least five code elements
   total (not each)
-- [ ] The .main-section elements should contain at least five li items total
+- [x] The .main-section elements should contain at least five li items total
   (not each)
 - [ ] You can see a nav element with a corresponding id="navbar"
 - [ ] The navbar element should contain one header element which contains text
