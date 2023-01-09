@@ -20,10 +20,10 @@ User Stories:
   total (not each)
 - [x] The .main-section elements should contain at least five li items total
   (not each)
-- [ ] You can see a nav element with a corresponding id="navbar"
-- [ ] The navbar element should contain one header element which contains text
+- [x] You can see a nav element with a corresponding id="navbar"
+- [x] The navbar element should contain one header element which contains text
   that describes the topic of the technical documentation
-- [ ] Additionally, the navbar should contain link (a) elements with the class
+- [x] Additionally, the navbar should contain link (a) elements with the class
   of nav-link. There should be one for every element with the class
   main-section
 - [ ] The header element in the #navbar must come before any link (a) elements
