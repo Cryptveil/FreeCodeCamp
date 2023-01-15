@@ -10,33 +10,77 @@
     <a class="nav-link" href="#loops">Loops</a>
     <a class="nav-link" href="#functions">Functions</a>
     <a class="nav-link" href="#oop">OOP</a>
-    <a class="nav-link" href="#imports">Imports</a>
+    <a class="nav-link" href="#dictionaries">Dictionaries</a>
   </nav>
 
   <main id="main-doc">
     <section class="main-section" id="if_and_else">
       <header>If and Else</header>
-      <!-- Add content here -->
+    <p>An else statement can be combined with an if statement. An else statement contains the block of code that executes if
+        the conditional expression in the if statement resolves to 0 or a FALSE value.</p>
+    <p>The else statement is an optional statement and there could be at most only one else statement following if.</p>
+    <p>The syntax of the if...else statement is −</p>
+    <p>Here is the syntax for the things you'll use here:</p>
+    <ul>
+        <li>if</li>
+        <li>else</li>
+        <li>elif (equivalent to else if)</li>
+    </ul>
+    <code>if expression: <br>
+       statement(s) <br>
+else: <br>
+   statement(s)</code>
     </section>
 
     <section class="main-section" id="loops">
       <header>Loops</header>
-      <!-- Add content here -->
+    <p>In general, statements are executed sequentially: The first statement in a function is executed first, followed by
+        the second, and so on. There may be a situation when you need to execute a block of code several number of times.
+    </p>
+    <p>Programming languages provide various control structures that allow for more complicated execution paths.</p>
+    <p>
+    There are actually a bunch of different types of loops in Python here they are:
+    </p>
+    <ul>
+        <li>While Loops</li>
+        <li>For Loops</li>
+        <li>Nested Loops</li>
+    </ul>
+    <code>for thing in iterable: <br>
+        statements <br>
+    </code>
     </section>
 
     <section class="main-section" id="functions">
       <header>Functions</header>
-      <!-- Add content here -->
+    <p>A function is a block of organized, reusable code that is used to perform a single, related action. Functions provide
+        better modularity for your application and a high degree of code reusing.</p>
+    <p>As you already know, Python gives you many built-in functions like print(), etc. but you can also create your own
+        functions. These functions are called user-defined functions.</p>
+    <code>print(something)</code>
     </section>
 
     <section class="main-section" id="oop">
       <header>OOP</header>
-      <!-- Add content here -->
+    <p>Python has been an object-oriented language since it existed. Because of this, creating and using classes and objects
+        are downright easy. This chapter helps you become an expert in using Python's object-oriented programming support.
+    </p>
+    <p>If you do not have any previous experience with object-oriented (OO) programming, you may want to consult an
+        introductory course on it or at least a tutorial of some sort so that you have a grasp of the basic concepts.</p>
+    <code>class SomeClass(): <br>
+        def __init__(self): <br>
+            constructor stuff <br>
+    </code>
     </section>
 
-    <section class="main-section" id="imports">
-      <header>Imports</header>
-      <!-- Add content here -->
+    <section class="main-section" id="dictionaries">
+      <header>Dictionaries</header>
+        <p>Each key is separated from its value by a colon (:), the items are separated by commas, and the whole thing is
+            enclosed in curly braces. An empty dictionary without any items is written with just two curly braces, like this:
+            {}.</p>
+        <p>Keys are unique within a dictionary while values may not be. The values of a dictionary can be of any type, but the
+            keys must be of an immutable data type such as strings, numbers, or tuples.</p>
+        <code>dictionary = {"Ana": 67, "Bob": 82, "Carlos": 40}</code>
     </section>
   </main>
 </body>
