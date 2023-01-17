@@ -10,4 +10,4 @@ inspect element involved, I'm not good with design yet).
 - [ ] Product Landing Page
 - [ ] Personal Portfolio Webpage
 
-** Click each folder to see a picture of how it looks **
+**Click each folder to see a picture of how it looks**
