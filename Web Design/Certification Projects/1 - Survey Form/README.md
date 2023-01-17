@@ -1,4 +1,12 @@
-User Stories:
+# Adoption form
+
+This is how the final project looks:
+
+| ![Adoption form with a cat as a background](https://i.imgur.com/1TdIpCS.png) |
+|:--:|
+| *Adoption form, not bad for a first project but doesn't look good either* |
+
+## User Stories:
 
 - [x]   You should have a page title in an h1 element with an id of title
 - [x]   You should have a short explanation in a p element with an id of description
