@@ -1,7 +1,12 @@
-# Build a Technical Documentation Page
-Objective: Build an app that is functionally similar to https://technical-documentation-page.freecodecamp.rocks
+# Technical Documentation Page
 
-User Stories:
+This is how the final project looks:
+
+| ![Technical documentation](https://i.imgur.com/lOi0PtC.png) |
+|:--:|
+| *Very heavily inspired by the example page provided but yeah it works* |
+
+## User Stories (What needed to be fulfilled in order to pass):
 
 - [x] You can see a main element with a corresponding id="main-doc", which
   contains the page's main content (technical documentation)
@@ -39,7 +44,7 @@ User Stories:
 - [x] On regular sized devices (laptops, desktops), the element with
   id="navbar" should be shown on the left side of the screen and should always
   be visible to the user
-- [ ] Your technical documentation should use at least one media query
+- [x] Your technical documentation should use at least one media query
 
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
