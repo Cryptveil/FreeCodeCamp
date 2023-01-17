@@ -6,19 +6,23 @@ This is how the final project looks:
 |:--:|
 | *Adoption form, not bad for a first project but doesn't look good either* |
 
-## User Stories:
+## User Stories (What needed to be fulfilled in order to pass):
 
 - [x]   You should have a page title in an h1 element with an id of title
-- [x]   You should have a short explanation in a p element with an id of description
+- [x]   You should have a short explanation in a p element with an id of
+  description
 - [x]   You should have a form element with an id of survey-form
 - [x]   Inside the form element, you are required to enter your name in an input
  		field that has an id of name and a type of text
-- [x]   Inside the form element, you are required to enter your email in an input field that has an id of email
-- [x]   If you enter an email that is not formatted correctly, you will see an HTML5 validation error
-- [x]   Inside the form, you can enter a number in an input field that has an id of number
+- [x]   Inside the form element, you are required to enter your email in an
+  input field that has an id of email
+- [x]   If you enter an email that is not formatted correctly, you will see an
+  HTML5 validation error
+- [x]   Inside the form, you can enter a number in an input field that has an
+  id of number
 - [x] 	The number input should not accept non-numbers, either by preventing you
- 		from typing them or by showing an HTML5 validation error (depending on your
- 		browser).
+        from typing them or by showing an HTML5 validation error (depending on
+        your browser).
 - [x] 	If you enter numbers outside the range of the number input, which are
  		defined by the min and max attributes, you will see an HTML5 validation
  		error
@@ -33,8 +37,10 @@ This is how the final project looks:
  		two radio buttons that are grouped using the name attribute
 - [x] 	Inside the form element, you can select several fields from a series of
  		checkboxes, each of which must have a value attribute
-- [x]   Inside the form element, you are presented with a textarea for additional comments
-- [x]   Inside the form element, you are presented with a button with id of submit to submit all the inputs
+- [x]   Inside the form element, you are presented with a textarea for
+  additional comments
+- [x]   Inside the form element, you are presented with a button with id of
+  submit to submit all the inputs
 
 Fulfill the user stories and pass all the tests below to complete this project.
 Give it your own personal style. Happy Coding!
