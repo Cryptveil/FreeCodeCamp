@@ -4,7 +4,7 @@ This is how the final project looks:
 
 | ![My greatest work](https://i.imgur.com/8mJfn8K.png) |
 |:--:|
-| *This is the greatest website in existance* |
+| *This is the greatest website in existence* |
 
 ## User Stories (What needed to be fulfilled in order to pass):
 
