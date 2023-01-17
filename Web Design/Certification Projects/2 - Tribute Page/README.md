@@ -1,9 +1,12 @@
-# Build a Tribute Page
+# Tribute page
 
-Objective: Build an app that is functionally similar to
-https://tribute-page.freecodecamp.rocks
+This is how the final project looks:
 
-User Stories:
+| ![My greatest work](https://i.imgur.com/8mJfn8K.png) |
+|:--:|
+| *This is the greatest website in existance* |
+
+## User Stories (What needed to be fulfilled in order to pass):
 
 - [x] Your tribute page should have a main element with a corresponding id of main,
 	 which contains all other elements
