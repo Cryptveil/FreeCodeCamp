@@ -3,13 +3,13 @@
 ## User Stories (What needed to be fulfilled in order to pass):
 
 
-- [ ]     Your product landing page should have a header element with a
+- [x]     Your product landing page should have a header element with a
   corresponding id="header"
-- [ ]     You can see an image within the header element with a corresponding
+- [x]     You can see an image within the header element with a corresponding
   id="header-img" (A logo would make a good image here)
-- [ ]     Within the #header element, you can see a nav element with a
+- [x]     Within the #header element, you can see a nav element with a
   corresponding id="nav-bar"
-- [ ]     You can see at least three clickable elements inside the nav element,
+- [x]     You can see at least three clickable elements inside the nav element,
   each with the class nav-link
 - [ ]     When you click a .nav-link button in the nav element, you are taken
   to the corresponding section of the landing page
