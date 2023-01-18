@@ -11,7 +11,7 @@
   corresponding id="nav-bar"
 - [x]     You can see at least three clickable elements inside the nav element,
   each with the class nav-link
-- [ ]     When you click a .nav-link button in the nav element, you are taken
+- [x]     When you click a .nav-link button in the nav element, you are taken
   to the corresponding section of the landing page
 - [ ]     You can watch an embedded product video with id="video"
 - [ ]     Your landing page has a form element with a corresponding id="form"
