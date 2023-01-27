@@ -13,7 +13,7 @@
   each with the class nav-link
 - [x]     When you click a .nav-link button in the nav element, you are taken
   to the corresponding section of the landing page
-- [ ]     You can watch an embedded product video with id="video"
+- [x]     You can watch an embedded product video with id="video"
 - [ ]     Your landing page has a form element with a corresponding id="form"
 - [ ]     Within the form, there is an input field with id="email" where you
   can enter an email address
