@@ -4,7 +4,7 @@ This is how the final project looks:
 
 | ![Product Landing Page](https://i.imgur.com/M3O422v.png) |
 |:--:|
-| *Not my best work but not too bad, will fix it later* |
+| *Not my best work but not too bad, will fix it another day* |
 
 ## User Stories (What needed to be fulfilled in order to pass):
 
