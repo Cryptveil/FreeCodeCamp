@@ -25,9 +25,9 @@
   id="submit"
 - [x]     When you click the #submit element, the email is submitted to a
   static page (use this mock URL: https://www.freecodecamp.com/email-submit)
-- [ ]     The navbar should always be at the top of the viewport
-- [ ]     Your product landing page should have at least one media query
-- [ ]     Your product landing page should utilize CSS flexbox at least once
+- [x]     The navbar should always be at the top of the viewport
+- [x]     Your product landing page should have at least one media query
+- [x]     Your product landing page should utilize CSS flexbox at least once
 
 Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
 
