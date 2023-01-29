@@ -1,5 +1,11 @@
 # Product Landing Page
 
+This is how the final project looks:
+
+| ![Product Landing Page](https://i.imgur.com/M3O422v.png) |
+|:--:|
+| *Not my best work but not too bad, will fix it later* |
+
 ## User Stories (What needed to be fulfilled in order to pass):
 
 
@@ -11,7 +17,7 @@
   corresponding id="nav-bar"
 - [x]     You can see at least three clickable elements inside the nav element,
   each with the class nav-link
-- [ ]     When you click a .nav-link button in the nav element, you are taken
+- [x]     When you click a .nav-link button in the nav element, you are taken
   to the corresponding section of the landing page
 - [x]     You can watch an embedded product video with id="video"
 - [x]     Your landing page has a form element with a corresponding id="form"
@@ -29,6 +35,8 @@
 - [x]     Your product landing page should have at least one media query
 - [x]     Your product landing page should utilize CSS flexbox at least once
 
-Fulfill the user stories and pass all the tests below to complete this project. Give it your own personal style. Happy Coding!
+Fulfill the user stories and pass all the tests below to complete this project.
+Give it your own personal style. Happy Coding!
 
-Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to link your stylesheet and apply your CSS
+Note: Be sure to add <link rel="stylesheet" href="styles.css"> in your HTML to
+link your stylesheet and apply your CSS
