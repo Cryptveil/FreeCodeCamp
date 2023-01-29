@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+body {
+    background-color: #FFFCF2;
+    font-family: sans-serif;
+}
+
+li {
+    list-style: none;
+}
+
+.btn {
+  padding: 0 20px;
+  height: 40px;
+  font-size: 1em;
+  font-weight: 900;
+  text-transform: uppercase;
+  border: 3px black solid;
+  border-radius: 2px;
+  background: transparent;
+  cursor: pointer;
+  transition: all 0.25s;
+}
+
+.btn:hover {
+    border-color: #EB5E28;
+    color: #252422;
+    box-shadow: 0 0.5em 0.5em -0.4em #EB5E28;
+    transform: translateY(-0.25em);
+    cursor: pointer;
+}
+
