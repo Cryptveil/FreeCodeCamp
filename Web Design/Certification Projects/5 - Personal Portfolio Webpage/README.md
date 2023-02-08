@@ -1,5 +1,9 @@
 # Personal Portfolio Webpage
 
+This was going to be hosted on my personal home server, however my server's HDD
+just died on me, so it will be hosted on GitHub websites while I don't get a
+replacement hard disk.
+
 ## User Stories:
 
 - [ ] Your portfolio should have a welcome section with an id of
