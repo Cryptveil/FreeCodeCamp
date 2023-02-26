@@ -8,6 +8,6 @@ inspect element involved, I'm not good with design yet).
 - [x] Tribute Page
 - [x] Technical Documentation Page
 - [x] Product Landing Page
-- [ ] Personal Portfolio Webpage
+- [x] Personal Portfolio Webpage
 
 **Click each folder to see a picture of how it looks**
